@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Lap trinh backend voi nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duchieu1370/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Duc Hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duchieu1370/nodejs/issues"
+  },
+  "homepage": "https://github.com/duchieu1370/nodejs#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
